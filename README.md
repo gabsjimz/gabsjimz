@@ -62,7 +62,7 @@
 Manejo de archivos para almacenar datos de pedidos, locales y pagos.<br/>
 Diseño de clases orientado a objetos.<br/></p>
 <div align="center">
-  <img src="heladería.jpeg" alt="heladería" width="500" />
+  <img src="heladeria.png" alt="heladería" width="500" />
 </div>
 
 
