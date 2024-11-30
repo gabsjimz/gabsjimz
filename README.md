@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Soy Gabriela Jiménez</h1>
-<img src="pic.jpeg" height="390" width="300" style="display: block; margin: 0 auto;" />
+<div align="center">
+  <img src="pic.jpeg" height="390" width="300" />
+</div>
 
 <h3 align="center">Apasionada por la computación</h3>
 <h3>Datos personales</h3>
@@ -59,7 +61,10 @@
 <b>- Tecnologías usadas:</b> <br/>Java con interfaz gráfica en JavaFX.<br/>
 Manejo de archivos para almacenar datos de pedidos, locales y pagos.<br/>
 Diseño de clases orientado a objetos.<br/></p>
-<img src="heladería.jpeg" alt="heladería" width=500 style="display: block; margin: 0 auto;/>
+<div align="center">
+  <img src="heladería.jpeg" alt="heladería" width="500" />
+</div>
+
 
 <h4 align="left"><a href="https://github.com/waldaara/aciertamente.git">Aciertamente</a></h4>
 <p>Fue mi proyecto de estadística, trabajé junto mi compañero <a href="https://waldaara.github.io/waldaara/">David Aragundy</a>. Es un proyecto de código abierto donde puedes poner a prueba tu memoria. Tienes 10 segundos para memorizar 10 dígitos y luego escribir lo que recuerdes. Se tiene 5 intentos en total.<br/><br/><b>-Tecnologías usadas: </b><br/>
@@ -76,14 +81,19 @@ Diseño de clases orientado a objetos.<br/></p>
   React.js<br>
   TypeScript<br>
   Visual Studio Code</p>
-<img src="aciertamente.png" alt="aciertamente" width=500 style="display: block; margin: 0 auto;/>
+<div align="center">
+  <img src="aciertamente.png" alt="heladería" width="500" />
+</div>
+
 
 <h4 align="left"><a href="https://github.com/gabsjimz/gabscurriculum.git">Gab's Curriculum</a></h4>
 <p>Uno de mis proyectos del curso de Desarrollo de Aplicaciones Webs y Móviles (DAWN). Ttabajé en un curriculum personal web.<br/><br/> <b>-Tecnologías usadas: </b><br/>HTML: Para la estructura del contenido de la página web.<br/>
 CSS: Para el diseño y estilización de la página, aplicando buenas prácticas de diseño web.<br/>
 Visual Studio Code (VSC): Como entorno de desarrollo integrado (IDE) para escribir y organizar el código.<br/>
 GitHub Pages: Para alojar y desplegar la página web, haciendo que sea accesible a través de una URL pública.</p>
-<img src="gabscv.png" alt="aciertamente" width=500 style="display: block; margin: 0 auto;/>
+<div align="center">
+  <img src="gabscv.png" alt="heladería" width="500" />
+</div>
 <h3 align="left"><br/>Contáctame:</h3>
 <p align="left">
 <a href="https://twitter.com/gabs_1618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabs_1618" height="30" width="40" /></a>
